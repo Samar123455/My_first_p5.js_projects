@@ -1,0 +1,15 @@
+#container{
+   
+    margin-left: 30px;
+}
+
+#camera_div{
+    border: 5px,solid,black;
+    height: 400px;
+    width: 550px;
+}
+
+#hi{
+    margin-top: 270px;
+    margin-left: 220px;
+}
